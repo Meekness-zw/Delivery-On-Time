@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# local env (keep .env.example; never commit .env)
+.env
+firebase-service-account.json
+
+# misc
+.DS_Store
+*.log
+
